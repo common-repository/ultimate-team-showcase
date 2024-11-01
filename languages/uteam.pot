@@ -1,0 +1,866 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Ultimate Team Showcase Responsive Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-14 10:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: uteam"
+
+#: includes/metabox/wp_ultimate_team_metabox.php:960
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:679
+msgid "1 Seconds"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:678
+msgid "2 Seconds"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:677
+msgid "3 Seconds"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:676
+msgid "4 Seconds"
+msgstr ""
+
+#: admin/settings/sidebar.php:5
+msgid "40+ Unique Style"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:675
+msgid "5 Seconds"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:197
+msgid "Add More info"
+msgstr ""
+
+#: includes/shortcode_generate.php:129
+msgid "Add New Shortcode"
+msgstr ""
+
+#: includes/shortcode_generate.php:13 includes/shortcode_generate.php:14
+msgid "Add New Team"
+msgstr ""
+
+#: includes/vc-addon/wp_ultimate_team.php:40
+msgid "Add Team"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:157
+msgid "Address"
+msgstr ""
+
+#: includes/shortcode_generate.php:126
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/shortcode_generate.php:17
+msgid "All Teams"
+msgstr ""
+
+#: admin/settings/sidebar.php:13
+msgid "And many more.."
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:431
+msgid "Ascending Pro"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:645
+msgid "Autoplay (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:669
+msgid "Autoplay Interval (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:684
+msgid "Autoplay Slide Speed (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:757 
+#: includes/metabox/wp_ultimate_team_metabox.php:786
+msgid "Background Color (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:852
+msgid "Border Radius (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:720
+msgid "Center"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:351
+msgid "Change category label"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:464
+msgid "Choose Category (Pro Only)"
+msgstr ""
+
+#: admin/settings/sidebar.php:6
+msgid "Clean, Flexible and Fully Responsive"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:750 
+#: includes/metabox/wp_ultimate_team_metabox.php:779 
+#: includes/metabox/wp_ultimate_team_metabox.php:808
+msgid "Color"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:546 
+#: includes/metabox/wp_ultimate_team_metabox.php:562 
+#: includes/metabox/wp_ultimate_team_metabox.php:578 
+#: includes/metabox/wp_ultimate_team_metabox.php:594 
+#: includes/metabox/wp_ultimate_team_metabox.php:610
+msgid "Column 1"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:547 
+#: includes/metabox/wp_ultimate_team_metabox.php:563 
+#: includes/metabox/wp_ultimate_team_metabox.php:579 
+#: includes/metabox/wp_ultimate_team_metabox.php:595 
+#: includes/metabox/wp_ultimate_team_metabox.php:611 
+#: includes/metabox/wp_ultimate_team_metabox.php:733
+msgid "Column 2"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:501
+msgid "Column 2 (Pro)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:502 
+#: includes/metabox/wp_ultimate_team_metabox.php:548 
+#: includes/metabox/wp_ultimate_team_metabox.php:564 
+#: includes/metabox/wp_ultimate_team_metabox.php:580 
+#: includes/metabox/wp_ultimate_team_metabox.php:596 
+#: includes/metabox/wp_ultimate_team_metabox.php:612 
+#: includes/metabox/wp_ultimate_team_metabox.php:734
+msgid "Column 3"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:549 
+#: includes/metabox/wp_ultimate_team_metabox.php:565 
+#: includes/metabox/wp_ultimate_team_metabox.php:581 
+#: includes/metabox/wp_ultimate_team_metabox.php:597 
+#: includes/metabox/wp_ultimate_team_metabox.php:613 
+#: includes/metabox/wp_ultimate_team_metabox.php:735
+msgid "Column 4"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:503
+msgid "Column 4 (Pro)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:550 
+#: includes/metabox/wp_ultimate_team_metabox.php:566 
+#: includes/metabox/wp_ultimate_team_metabox.php:582 
+#: includes/metabox/wp_ultimate_team_metabox.php:598 
+#: includes/metabox/wp_ultimate_team_metabox.php:614
+msgid "Column 5"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:551 
+#: includes/metabox/wp_ultimate_team_metabox.php:567 
+#: includes/metabox/wp_ultimate_team_metabox.php:583 
+#: includes/metabox/wp_ultimate_team_metabox.php:599 
+#: includes/metabox/wp_ultimate_team_metabox.php:615
+msgid "Column 6"
+msgstr ""
+
+#: includes/shortcode_generate.php:128
+msgid "Create New Shortcode"
+msgstr ""
+
+#: includes/shortcode_generate.php:166
+msgid "Create Shortcode"
+msgstr ""
+
+#: includes/vc-addon/wp_ultimate_team.php:56
+msgid "CSS box"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:432
+msgid "Descending Pro"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:926
+msgid "Description Color"
+msgstr ""
+
+#: includes/vc-addon/wp_ultimate_team.php:58
+msgid "Design Options"
+msgstr ""
+
+#: includes/shortcode_generate.php:57
+msgid "Designation"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:919
+msgid "Designation Color"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:130
+msgid "Designation PRO"
+msgstr ""
+
+#: admin/settings/sidebar.php:7
+msgid "Different layouts: grid, sliders, tables, filter"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:627 
+#: includes/metabox/wp_ultimate_team_metabox.php:639 
+#: includes/metabox/wp_ultimate_team_metabox.php:651 
+#: includes/metabox/wp_ultimate_team_metabox.php:663 
+#: includes/metabox/wp_ultimate_team_metabox.php:698
+msgid "Disable"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:99 admin/settings/plugin-settings.php:376
+msgid "Disable Boostrap CSS"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:93 admin/settings/plugin-settings.php:217
+msgid "Disable Details Page"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:117 
+#: admin/settings/plugin-settings.php:398
+msgid "Disable FlexSlider CSS"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:141 
+#: admin/settings/plugin-settings.php:493
+msgid "Disable FlexSlider JS"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:105 
+#: admin/settings/plugin-settings.php:383
+msgid "Disable Fontawesome CSS"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:129 
+#: admin/settings/plugin-settings.php:478
+msgid "Disable Isotope JS"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:123 
+#: admin/settings/plugin-settings.php:406
+msgid "Disable magnific popup CSS"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:147 
+#: admin/settings/plugin-settings.php:501
+msgid "Disable magnific popup JS"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:111 
+#: admin/settings/plugin-settings.php:391
+msgid "Disable owl carousel CSS"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:135 
+#: admin/settings/plugin-settings.php:486
+msgid "Disable owl carousel JS"
+msgstr ""
+
+#: admin/settings/footer.php:4 admin/settings/footer.php:9
+msgid "Documentation"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:227
+msgid "Dribbble"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:228
+msgid "Dropbox"
+msgstr ""
+
+#: admin/settings/sidebar.php:10
+msgid "Easy to implement and customize"
+msgstr ""
+
+#: includes/shortcode_generate.php:130
+msgid "Edit Shortcode"
+msgstr ""
+
+#: includes/shortcode_generate.php:15
+msgid "Edit Team"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:145
+msgid "Email Address"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:628 
+#: includes/metabox/wp_ultimate_team_metabox.php:640 
+#: includes/metabox/wp_ultimate_team_metabox.php:652 
+#: includes/metabox/wp_ultimate_team_metabox.php:664 
+#: includes/metabox/wp_ultimate_team_metabox.php:699
+msgid "Enable"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:33
+msgid "Enable/Disable CSS"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:34
+msgid "Enable/Disable JS"
+msgstr ""
+
+#: includes/shortcode_generate.php:176
+msgid "Enter Shortcode Name"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:217
+msgid "Facebook"
+msgstr ""
+
+#: admin/settings/footer.php:13 admin/settings/footer.php:18
+msgid "FAQ"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:71
+msgid "Features"
+msgstr ""
+
+#: admin/settings/sidebar.php:3
+msgid "Features Lists"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:713
+msgid "Filter Align (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:412
+msgid "Filter Style (Pro)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:706
+msgid "Filter Text (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:764 
+#: includes/metabox/wp_ultimate_team_metabox.php:793 
+#: includes/metabox/wp_ultimate_team_metabox.php:815 
+#: includes/metabox/wp_ultimate_team_metabox.php:845
+msgid "Font Size (Pro Only)"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:272
+msgid "From Plugin"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:274
+msgid "From Theme"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:31
+msgid "General"
+msgstr ""
+
+#: admin/settings/footer.php:7 admin/settings/footer.php:16 
+#: admin/settings/footer.php:25 admin/settings/footer.php:34
+msgid ""
+"Get started by spending some time with the documentation to get familiar "
+"with reviewx. Build awesome websites for you or your clients with ease."
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:226
+msgid "Github"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:409
+msgid "Grid"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:514
+msgid "Hide"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:237
+msgid "http://facebook.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://rstheme.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://rstheme.com/portfolio-category/plugins/"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:888
+msgid "Icon BG Color (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:881
+msgid "Icon Color (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:897
+msgid "Image Overlay Color"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:220
+msgid "Instagram"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:719
+msgid "Left"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:411
+msgid "Light Box Style (Pro)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:866
+msgid "Link BG Color (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:859
+msgid "Link Color (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:905
+msgid "Link Hover Color (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:219
+msgid "Linkedin"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:692
+msgid "Loop (Pro Only)"
+msgstr ""
+
+#: includes/shortcode_generate.php:55
+msgid "Member Name"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:255
+msgid "Member Single Gallery"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:185
+msgid "Member Social Information"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:113
+msgid "Memeber Basic Information"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:633
+msgid "Navigation Arrow (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:620
+msgid "Navigation Dots (Pro Only) "
+msgstr ""
+
+#: includes/shortcode_generate.php:16
+msgid "New Team"
+msgstr ""
+
+#: includes/shortcode_generate.php:20
+msgid "No Teams found"
+msgstr ""
+
+#: includes/shortcode_generate.php:21
+msgid "No Teams found in Trash"
+msgstr ""
+
+#: includes/shortcode_generate.php:133
+msgid "Not Found"
+msgstr ""
+
+#: includes/shortcode_generate.php:134
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:173
+msgid "Not Selected"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:540
+msgid "Number of columns ( Desktops > 1199px "
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:556
+msgid "Number of columns ( Desktops > 991px "
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:604
+msgid "Number of columns ( Tablets < 480px "
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:588
+msgid "Number of columns ( Tablets < 768px "
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:572
+msgid "Number of columns ( Tablets > 767px "
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:425
+msgid "Ordering (Pro Only)"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:35
+msgid "Overview"
+msgstr ""
+
+#: includes/shortcode_generate.php:125
+msgid "Parent Shortcode"
+msgstr ""
+
+#: includes/shortcode_generate.php:22
+msgid "Parent Team:"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:139
+msgid "Phone Number"
+msgstr ""
+
+#: includes/shortcode_generate.php:56
+msgid "Photo"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:225
+msgid "Pinterest"
+msgstr ""
+
+#: includes/shortcode_generate.php:122
+msgctxt "Post Type General Name"
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/shortcode_generate.php:123
+msgctxt "Post Type Singular Name"
+msgid "Shortcode"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:75 admin/settings/plugin-settings.php:193
+msgid "Primary Color"
+msgstr ""
+
+#: admin/settings/footer.php:31 admin/settings/footer.php:36
+msgid "Rate out plugin"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:198
+msgid "Remove Info"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:721
+msgid "Right"
+msgstr ""
+
+#. Author of the plugin
+msgid "rs-theme"
+msgstr ""
+
+#: includes/shortcode_generate.php:132
+msgid "Search Shortcode"
+msgstr ""
+
+#: includes/shortcode_generate.php:19
+msgid "Search Teams"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:81 admin/settings/plugin-settings.php:201
+msgid "Secondary Color"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:500
+msgid "Select Column"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:494 
+#: includes/metabox/wp_ultimate_team_metabox.php:727
+msgid "Select Column (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:430
+msgid "Select Option"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:87 admin/settings/plugin-settings.php:209
+msgid "Select Single Template"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:212
+msgid "Select Social Icon"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:485 
+#: includes/metabox/wp_ultimate_team_metabox.php:524
+msgid "Select Style"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:404
+msgid "Select Team Type"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:10 admin/settings/plugin-settings.php:11
+msgid "Settings"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:163
+msgid "Short Description"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:801
+msgid "Short Description Section"
+msgstr ""
+
+#: includes/shortcode_generate.php:207
+msgid "Shortcode"
+msgstr ""
+
+#: includes/shortcode_generate.php:196
+msgid "Shortcode draft updated."
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:295
+msgid "Shortcode Generator"
+msgstr ""
+
+#: includes/shortcode_generate.php:140
+msgid "Shortcode news and reviews"
+msgstr ""
+
+#: includes/shortcode_generate.php:192
+msgid "Shortcode published."
+msgstr ""
+
+#: includes/shortcode_generate.php:191
+#, php-format
+msgid "Shortcode restored to revision from %s"
+msgstr ""
+
+#: includes/shortcode_generate.php:193
+msgid "Shortcode saved."
+msgstr ""
+
+#: includes/shortcode_generate.php:195
+#, php-format
+msgid "Shortcode scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/shortcode_generate.php:194
+msgid "Shortcode submitted."
+msgstr ""
+
+#: includes/shortcode_generate.php:187 includes/shortcode_generate.php:190
+msgid "Shortcode updated."
+msgstr ""
+
+#: includes/shortcode_generate.php:124 includes/shortcode_generate.php:139
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:508
+msgid "Show Pagination"
+msgstr ""
+
+#: admin/settings/sidebar.php:8
+msgid "Single Member page included"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:410
+msgid "Slider"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:874
+msgid "Slider Option"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:837 
+#: includes/metabox/wp_ultimate_team_metabox.php:940
+msgid "Social Icon Bg Color (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:830 
+#: includes/metabox/wp_ultimate_team_metabox.php:933
+msgid "Social Icon Color (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:823
+msgid "Social Icon Section"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:196
+msgid "Social Info {#}"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:224
+msgid "Soundcloud"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:72
+msgid "Status"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:657
+msgid "Stop on Hover (Pro Only)"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:473 
+#: includes/metabox/wp_ultimate_team_metabox.php:529
+msgid "Style 1"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:474 
+#: includes/metabox/wp_ultimate_team_metabox.php:530
+msgid "Style 2"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:475 
+#: includes/metabox/wp_ultimate_team_metabox.php:531
+msgid "Style 3"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:476 
+#: includes/metabox/wp_ultimate_team_metabox.php:532
+msgid "Style 4"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:477 
+#: includes/metabox/wp_ultimate_team_metabox.php:533
+msgid "Style 5"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:478 
+#: includes/metabox/wp_ultimate_team_metabox.php:534
+msgid "Style 6"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:479 
+#: includes/metabox/wp_ultimate_team_metabox.php:535
+msgid "Style 7"
+msgstr ""
+
+#: admin/settings/footer.php:22 admin/settings/footer.php:27
+msgid "Support"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:413
+msgid "Table Style (Pro)"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:343
+msgid "Taxonomy Slug Rewrite"
+msgstr ""
+
+#: includes/shortcode_generate.php:11 includes/shortcode_generate.php:12
+msgid "Team"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:772
+msgid "Team Designation Section"
+msgstr ""
+
+#: admin/settings/sidebar.php:9
+msgid "Team Filtering with different categories"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:194
+msgid "Team Member Social Information"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:418
+msgid "Team Per Page (Pro Only)"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:335
+msgid "Team Slug Rewrite"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:743
+msgid "Team Title Section"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:223
+msgid "Tiktok"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:912
+msgid "Title Color"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:515
+msgid "true"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:218
+msgid "Twitter"
+msgstr ""
+
+#: admin/settings/sidebar.php:11
+msgid "Unlimited Color Style"
+msgstr ""
+
+#: includes/shortcode_generate.php:131
+msgid "Update Shortcode"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:234
+msgid "URL"
+msgstr ""
+
+#: admin/settings/plugin-settings.php:32
+msgid "URL Rewrite"
+msgstr ""
+
+#: includes/shortcode_generate.php:127
+msgid "View Shortcode"
+msgstr ""
+
+#: includes/shortcode_generate.php:18
+msgid "View Team"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:222
+msgid "Vimeo"
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:151
+msgid "Website"
+msgstr ""
+
+#: admin/settings/sidebar.php:12
+msgid "Well documented"
+msgstr ""
+
+#: includes/shortcode_generate.php:23 includes/vc-addon/wp_ultimate_team.php:38
+msgid "WP Ultimate Team"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Ultimate Team Showcase Responsive Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "WP Ultimate Team Showcase WordPress Plugin - Developed RSTheme Team."
+msgstr ""
+
+#: includes/metabox/wp_ultimate_team_metabox.php:221
+msgid "Youtube"
+msgstr ""

@@ -1,0 +1,102 @@
+.rstheme-tabs-wrap {
+    box-sizing: border-box;
+    display: block;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+
+    margin: -6px -12px -12px -12px;
+}
+
+.rstheme-tabs-wrap .rstheme-tabs {
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.rstheme-tabs-wrap .rstheme-tabs .rstheme-tab {
+    display: block;
+    float: left;
+    cursor: pointer;
+    padding: 10px;
+    border-right: 1px solid #eee;
+}
+
+.rstheme-tabs-wrap .rstheme-tabs .rstheme-tab .rstheme-tab-icon {
+    margin-right: 5px;
+}
+
+.rstheme-tabs-wrap .rstheme-tabs .rstheme-tab:hover {
+    background-color: #f8f8f8;
+}
+
+.rstheme-tabs-wrap .rstheme-wrap {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.rstheme-options-page .rstheme-tabs-wrap .rstheme-wrap .rstheme-metabox > .rstheme-row:first-child {
+    margin-top: 1px;
+}
+
+.rstheme-tabs-wrap .rstheme-wrap .rstheme-row:not(.rstheme-tab-active-item) {
+    display: none;
+}
+
+/* Vertical tabs */
+.rstheme-tabs-wrap.rstheme-tabs-vertical {
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+}
+
+.rstheme-tabs-wrap.rstheme-tabs-vertical .rstheme-tabs {
+    -ms-flex-preferred-size: 200px;       
+    border-bottom: none;
+    border-right: 1px solid #eee;
+    padding: 10px 0;
+    margin: 0 10px;
+}
+
+.rstheme-tabs-wrap.rstheme-tabs-vertical .rstheme-tabs .rstheme-tab {
+    float: none;
+    background-color: #090979;
+    border-radius: 3px;
+    color: #fff;
+    margin-right: 8px;
+    padding: 10px 20px;
+    font-weight: 600;
+}
+
+.rstheme-tabs-wrap.rstheme-tabs-vertical .rstheme-tabs .rstheme-tab.active{
+    background-color: transparent;
+    border: 2px solid #090979;
+    color: #232323;
+}
+
+/* Widget area */
+.widget-content .rstheme-tabs-wrap {
+    margin: -1px -15px 0px -15px;
+}
+
+/*------------------------------
+
+------------------------------*/
+.rstheme-th label[for='uteam_title_section'],
+.rstheme-th label[for='uteam_designation_section'],
+.rstheme-th label[for='uteam_short_description_section'],
+.rstheme-th label[for='uteam_social_icon_section'],
+.rstheme-th label[for='uteam_others'],
+.rstheme-th label[for='uteam_slider_option']{
+    background-color: #ddd;
+    padding: 10px 20px;
+    cursor: auto;
+}
